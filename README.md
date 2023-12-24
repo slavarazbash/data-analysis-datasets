@@ -2,7 +2,7 @@
 
 This repo contains a dataset that is used for teaching Data Analytics in Python. It's used by the [Learn Data Analytics in Python](https://chat.openai.com/g/g-joAnbn8c0-learn-data-analytics-in-python) GPT.
 
-## Custom GPTs by [AI Upskill])(https://aiupskill.io)
+## Custom GPTs by [AI Upskill](https://aiupskill.io)
 
 ### [Learn Data Analytics in Python](https://chat.openai.com/g/g-joAnbn8c0-learn-data-analytics-in-python)
 Learn Data Analytics in Python from the two best teachers in the world. An experienced data scientist (Slava Razbash) and the world's best LLM (GPT4!). This custom GPT will teach you the skills that you need to get your data analytics career started.
